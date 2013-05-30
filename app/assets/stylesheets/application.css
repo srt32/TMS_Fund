@@ -17,3 +17,17 @@ body {
 	padding-left: 50px;
 	padding-right: 50px;
 }
+
+.question {
+	font-weight: bold;
+	font-size: 20px;
+}
+
+.answer {
+	font-size: 15px;
+}
+
+.footer {
+	padding-left: 50px;
+	padding-right: 50px;
+}
