@@ -66,6 +66,8 @@ GEM
     rack (1.4.5)
     rack-cache (1.2)
       rack (>= 0.4)
+    rack-google_analytics (1.0.2)
+      rack
     rack-ssl (1.3.3)
       rack
     rack-test (0.6.2)
@@ -136,6 +138,7 @@ DEPENDENCIES
   jquery-rails
   less-rails
   pg
+  rack-google_analytics
   rails (= 3.2.11)
   rspec-rails (~> 2.0)
   sass-rails (~> 3.2.3)
