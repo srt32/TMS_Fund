@@ -32,3 +32,7 @@ body {
 	padding-left: 50px;
 	padding-right: 50px;
 }
+
+#profile-name {
+	font-weight: bold;
+}
