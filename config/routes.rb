@@ -7,6 +7,8 @@ FundApp::Application.routes.draw do
 
   get "pages/about"
 
+  get "pages/profiles"
+
   root :to => 'pages#home'
 
   # The priority is based upon order of creation:
