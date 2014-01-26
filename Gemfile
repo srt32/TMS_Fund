@@ -8,6 +8,7 @@ gem 'rails', '3.2.11'
 gem 'therubyracer'
 gem 'less-rails'
 gem 'twitter-bootstrap-rails'
+gem 'thin'
 
 group :production do
 	gem 'pg'
